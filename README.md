@@ -1,4 +1,4 @@
 uExcel
 ======
 
-a µExcel for fun with pure JavaScript
+µExcel for fun with pure JavaScript
