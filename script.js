@@ -4,7 +4,7 @@
 
 
 var alfa = [    "A",    "B",    "C",    "D",    "E",    "F",    "G"];
-var tab = [], exps = [];
+var tab = [], exps = {};
 var changeFct = function(ev){
     var tmp = "";
     if(exps[ev.currentTarget.getAttribute('id')] !== undefined)
